@@ -87,5 +87,6 @@ int main()
     cin>>n;
     nQueen(board,n);
     cout<<(::count)<<"\n";
+    cout<<":D";
     return 0;
 }
